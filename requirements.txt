@@ -5,3 +5,4 @@ keras
 seaborn
 matplotlib
 numpy
+pickle
